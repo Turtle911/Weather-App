@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Weather App
 
 This project can fetch weather details of a location. Data from openweathermap.org
@@ -8,7 +8,4 @@ This project can fetch weather details of a location. Data from openweathermap.o
 This is how it looks :
 
 ![screenshot](capture.jpg)
-=======
-# Weather-App
-Weather App
->>>>>>> origin/main
+
